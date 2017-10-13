@@ -1,4 +1,4 @@
-0.0.2 (unreleased)
+0.0.2 (2017-10-13)
 ------------------
 
 - Nothing changed yet.
